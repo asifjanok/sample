@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // first commit from github to local repo
 public class SwapNumbers {
 	public static void main(String args[])
 	{
